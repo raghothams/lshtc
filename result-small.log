@@ -1,0 +1,7 @@
+INFO:root:loaded train data in : 9.8644080162
+INFO:root:will fit clf now
+INFO:root:done fitting train data in : 1792.77086401
+INFO:root:will load test
+INFO:root:done loading test  data in : 2.05045986176
+INFO:root:will predict
+INFO:root:done predicting test  data in : 111273.765023
